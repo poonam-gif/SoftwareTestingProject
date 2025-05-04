@@ -43,13 +43,12 @@ This QA project focuses on verifying the functionality, usability, and layout of
 - Security Testing
 </details>
 
-
 ## 🌐 Test Environment
 
-| Environment |        |Notes               |
-|-------------|--------------------------------|
-| QA          | ` Main test instance   |
-| UAT         | ` Pre-production stage |
+| Environment | URL                            | Notes               |
+|-------------|--------------------------------|----------------------|
+| QA          |     | Main test instance   |
+| UAT         | `   | Pre-production stage |
 
 
 ## 🛠️ Tools Used
